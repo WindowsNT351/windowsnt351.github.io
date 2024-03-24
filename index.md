@@ -2,10 +2,11 @@
 layout: default
 ---
 
-撅软件坟>>>
+撅软件坟>>>>
 
 # 项目
-CECollections2.0 - [Link to another page](https://github.com/WindowsNT351/CE-Collections-2.0).
+![Branching](./assets/img/cec-title.png)
+[CECollections2.0](https://github.com/WindowsNT351/CE-Collections-2.0)<br />
 
 # 关于
-[Link to another page](./about.html).
+[About](./about.html)
