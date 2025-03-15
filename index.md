@@ -11,8 +11,6 @@ layout: default
 ![Branching](./pages/hardlib/ibm-5551-g/5550.jpg)<br />
 [硬件归档列表/Hardware Library](./pages/hardlib/)<br />
 
-<br /><br />
-[快捷下载-NoAIR-1.00-Beta1-01](./pages/noair.zip)<br />
 
 # 关于
 [About](./about.html)
