@@ -13,6 +13,7 @@ PS/55是IBM日本公司于1987年发布的个人电脑系列。PS/55 是IBM Mult
 机器的软驱似乎工作不正常，有时无法启动参考盘，修理之后彻底不读盘了。之后使用了 https://github.com/mdehling/p7x-floppy-adapter 的转接器，将普通软驱转成PS/2（PS/55）可用的软驱接口。转接器仅焊接一个电阻就能使用。<br />
 这个机器是中文机（繁体），显卡字体ROM位置焊接全部两个EEPROM，日版机只有一个（ https://www.ardent-tool.com/PS55/video/DA_B_II_New_Photo_Front.jpg ）。<br />
 本机显卡在有些模式下会使用到1024*768隔行扫描分辨率，如果将系统切换到中文模式，会在启动时检测是否为5576键盘。<br />
+从收到主机到模拟系统大致过程：[[全网首发]我从30年前的电脑拯救了一个系统......](https://www.bilibili.com/video/BV1eiRYYfEU7)<br/>
 
 ## 照片
 ### 主机
