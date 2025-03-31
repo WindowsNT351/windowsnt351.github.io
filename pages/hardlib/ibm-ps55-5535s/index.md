@@ -29,7 +29,7 @@ layout: default
 ### 显卡
 ![5535DA_Top](./P1040092.JPG)<br />
 ![5535DA_Btm](./P1040093.JPG)<br />
-### AST扩展卡
+### 网卡
 ![5535Net_Top](./P1040089.JPG)<br />
 ![5535Net_Btm](./P1040091.JPG)<br />
 
@@ -38,3 +38,4 @@ layout: default
 
 ## 更新
 【20250322】 初版
+【20250331】 修改网卡
