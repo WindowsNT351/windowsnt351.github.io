@@ -34,8 +34,10 @@ layout: default
 ![5535Net_Btm](./P1040091.JPG)<br />
 
 ## BIOS固件下载
-使用getbio55 Dump的64F9883和64F9884: [79F1105&79F1106](./files/SYSBIOS_5535S.BIN)<br />
-
+使用getbio55 Dump的BIOS: [79F1105&79F1106](./files/SYSBIOS_5535S.BIN)<br />
+使用编程器对64F9883和64F9884直接Dump：[ODD](./files/IBM5535S-BIO-ODD.Bin) | [EVEN](./files/IBM5535S-BIO-EVEN.Bin)<br />
+使用KJFNTDM2 Dump的显卡字体ROM：[64F9074](./files/knjdmp512.7z)<br />
 ## 更新
-【20250322】 初版
-【20250331】 修改网卡
+【20250322】 初版 <br />
+【20250331】 修改网卡<br />
+【20250607】 更新使用编程器Dump的BIOS以及显卡字体。
