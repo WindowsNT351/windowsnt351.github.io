@@ -6,7 +6,7 @@ layout: default
 ![5535TOP](./5535s.png)<br />
 
 ## 机型简述
-第一台IBM的DOS/V机器，基于MCA总线,目前可找到最早系统为K3.44 For 5535S<br />
+第一台IBM的DOS/V机器，基于MCA总线,DOS/V机器<br />
 
 ## 当前机器简述
 感谢Nonx借我这台机子<br />
