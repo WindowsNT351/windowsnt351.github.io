@@ -5,6 +5,7 @@ layout: default
 # 硬件归档列表/Hardware library:
 
 ## 型号/Model:
+### IBM Multistation & IBM PS/55:
 ![](./ibm-5551-g/5550.jpg)
 [IBM 5551-G](./ibm-5551-g/index.md)<br /><br />
 
@@ -17,3 +18,5 @@ layout: default
 ![](./ibm-5535-m/5535m.jpg){:height="50%" width="50%"}
 [IBM 5535-M](./ibm-5535-m/index.md)<br /><br />
 
+![](./ibm-3477-s/3477s.jpg){:height="50%" width="50%"}
+[IBM 5535-M](./ibm-3477-s/index.md)<br /><br />
