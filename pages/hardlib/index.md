@@ -12,8 +12,8 @@ layout: default
 [IBM PS/55 5541-TC4](./ibm-ps55-5541-tc4/index.md)<br /><br />
 
 ![](./ibm-ps55-5535s/5535s.png){:height="40%" width="40%"}
-[IBM PS/55 5535s](./ibm-ps55-5535s/index.md)<br /><br />
+[IBM PS/55 5535S](./ibm-ps55-5535s/index.md)<br /><br />
 
 ![](./ibm-5535-m/5535m.jpg){:height="50%" width="50%"}
-[IBM PS/55 5535s](./ibm-ps55-5535s/index.md)<br /><br />
+[IBM 5535-M](./ibm-5535-m/index.md)<br /><br />
 
