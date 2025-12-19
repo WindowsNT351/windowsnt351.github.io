@@ -19,4 +19,4 @@ layout: default
 [IBM 5535-M](./ibm-5535-m/index.md)<br /><br />
 
 ![](./ibm-3477-s/3477s.jpg){:height="50%" width="50%"}
-[IBM 5535-M](./ibm-3477-s/index.md)<br /><br />
+[IBM 3477-S](./ibm-3477-s/index.md)<br /><br />
