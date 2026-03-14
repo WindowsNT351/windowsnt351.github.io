@@ -11,13 +11,13 @@ layout: default
   <table>
    <td>
     <h1>操作系统</h1>
-    <a href="./os/index.md" target="_blank">
+    <a href="./os/" target="_blank">
      <img alt="" src="./os/index.png" width="350"/><br />
     </a>
    </td>
    <td>
     <h1>应用软件</h1>
-    <a href="./software/index.md" target="_blank">
+    <a href="./software/" target="_blank">
      <img alt="" src="./software/index.png" width="350"/><br />
     </a>
    </td>
