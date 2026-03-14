@@ -5,7 +5,7 @@ layout: default
  <style>
  .box {
   width: 200px;
-  height: 100px;
+  height: 220px;
   margin: 10px;
  }
  .right {

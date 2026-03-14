@@ -16,7 +16,7 @@ layout: default
 
 <div align="center">
  <img alt="LOGO" src="./index.png" width="350"/><br />
- <h1>IBM HANZI DOS P2.20</h1>
+ <h1>IBM PC DOS T5.01</h1>
  <p>MultiWiki</p>
 </div>
 
@@ -24,15 +24,15 @@ layout: default
  <table>
   <tr>
    <td>软件序号</td>
-   <td>5600-362</td>
+   <td>/</td>
   </tr>
   <tr>
    <td>发布时间</td>
-   <td>1984</td>
+   <td>1992</td>
   </tr>
   <tr>
    <td>完整度</td>
-   <td>仅COMMAND.COM</td>
+   <td>完整</td>
   </tr>
   <tr>
    <td>媒体</td>
@@ -45,21 +45,29 @@ layout: default
  <div>
   <h1>简介</h1>
   <p style="font-size:16.5px">
-   IBM HANZI DOS P2.20为目前为止发现的最早的适用于Multistation的简体中文DOS。于 @时空访客 的硬盘上转储。
-   本COMMAND.COM在硬盘的HW(Hanzi Writer)文件夹发现，有可能是因为每张软件盘是可启动的，复制时复制时整个复制到了硬盘。<br />
-   IBM DOS P2.20-2.61各个版本都有不能在COMMAND.COM启动另一个版本的COMMAND.COM的问题，导致启动显示版本后卡死。
-   （直接替换COMMAND.COM可能解决本问题）
+  IBM PC DOS T5.01在我的PS/55 5541中提取，包含完整硬盘镜像。
   </p>
  </div>
- <div>
+<div>
   <h1>截图与照片</h1>
   <p style="font-size:16.5px">
    <table>
-    <td>
+   <td>
      <img alt="" src="./index.png" width="400"/><p>COMMAND.COM</p>
     </td>
    </table>
   </p>
  </div>
 </div>
-
+<div>
+  <h1>镜像下载</h1>
+  <p style="font-size:16.5px">
+   <a href="https://archive.org/details/ibm-5541-harddisk-raw" target="_blank" >IBM 5541 Harddisk RAW [Archive.org]</a>
+  </p>
+</div>
+<div>
+  <h1>参考</h1>
+  <p style="font-size:16.5px">
+   <a href="https://www.351workshop.top/pages/hardlib/ibm-ps55-5541-tc4/" target="_blank" >IBM PS/55 5541-TC4</a>
+  </p>
+</div>
