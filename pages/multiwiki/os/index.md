@@ -8,7 +8,7 @@
  <h1>IBM PC-DOS K/P/T/H/J是什么......</h1>
  <p style="font-size:16.5px">
   IBM PC-DOS K/P/T/H最开始是IBM Japan为Multistation编写的系统，K/P/T/H为不同语言。一般情况下DOS K/P/T/H的版本要大于系统基于的英文DOS。DOS K后来调整了部分结构，更名为DOS J。不同于前期非/V的版本只能在Multistation或IBM PS/55使用，DOS/V为后期VGA成熟后利用VGA在PCAT上显示亚洲文字的系统。以下为语言对照：<br />
-  <table border="1">
+  <table>
    <tr>
     <td>K/J</td>
     <td>日文</td>
@@ -302,6 +302,12 @@
     <td><a href="./h500v/" target="_blank" >IBM PC DOS H5.00/V</a></td>
     <td>PCAT</td>
     <td>🔵</td>
+   </tr>
+   <tr>
+    <td>/</td>
+    <td><a href="./h700v/" target="_blank" >IBM PC DOS H7.00/V</a></td>
+    <td>PCAT</td>
+    <td>🟢</td>
    </tr>
   </table>
  </p>
