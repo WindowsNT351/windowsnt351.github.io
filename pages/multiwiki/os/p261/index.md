@@ -21,7 +21,7 @@ layout: default
 </div>
 
 <div class="box right">
- <table border="1">
+ <table>
   <tr>
    <td>软件序号</td>
    <td>5600-383</td>
@@ -57,7 +57,7 @@ layout: default
  <div>
   <h1>截图与照片</h1>
   <p style="font-size:16.5px">
-   <table border="1">
+   <table>
     <td>
      <img alt="" src="./index.png" width="400"/><p>COMMAND.COM</p>
     </td>

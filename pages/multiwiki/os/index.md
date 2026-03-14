@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 <div align="center">
  <img alt="LOGO" src="./index.png" width="350"/><br />
@@ -35,7 +35,7 @@ layout: default
 <div>
  <h1>版本列表</h1>
  <p style="font-size:16.5px">
-  <table border="1">
+  <table>
    <tr>
     <td>软件编号</td>
     <td>名称</td>
@@ -78,7 +78,6 @@ layout: default
     <td>Multistation</td>
     <td>🟡</td>
    </tr>
-   </tr>
     <tr>
     <td>5600-JYD</td>
     <td><a href="./k271/" target="_blank" >IBM Kanji DOS K2.71</a></td>
@@ -97,13 +96,11 @@ layout: default
     <td>Multistation</td>
     <td>🔴</td>
    </tr>
-   </tr>
     <tr>
     <td>5605-JBK</td>
     <td><a href="./k331/" target="_blank" >IBM Kanji DOS K3.31</a></td>
     <td>PS/55</td>
     <td>🟢</td>
-   </tr>
    </tr>
     <tr>
     <td>560?-???</td>
@@ -117,13 +114,11 @@ layout: default
     <td>Multistation</td>
     <td>🔴</td>
    </tr>
-   </tr>
     <tr>
     <td>5600-JZN</td>
     <td><a href="./k344/" target="_blank" >IBM Kanji DOS K3.44</a></td>
     <td>Multistation/PS/55</td>
     <td>🟢</td>
-   </tr>
    </tr>
     <tr>
     <td>560?-???</td>
@@ -131,13 +126,11 @@ layout: default
     <td>?</td>
     <td>🔵</td>
    </tr>
-   </tr>
     <tr>
     <td>/</td>
     <td><a href="./j401/" target="_blank" >IBM PC DOS J4.01</a></td>
     <td>PS/55</td>
     <td>🟢</td>
-   </tr>
    </tr>
     <tr>
     <td>/</td>
@@ -145,13 +138,11 @@ layout: default
     <td>PS/55</td>
     <td>🟢</td>
    </tr>
-   </tr>
     <tr>
     <td>/</td>
     <td><a href="./j405/" target="_blank" >IBM PC DOS J4.05</a></td>
     <td>PS/55</td>
     <td>🟢</td>
-   </tr>
    </tr>
     <tr>
     <td>/</td>
@@ -159,13 +150,11 @@ layout: default
     <td>PCAT</td>
     <td>🟢</td>
    </tr>
-   </tr>
     <tr>
     <td>/</td>
     <td><a href="./j406/" target="_blank" >IBM PC DOS J4.06</a></td>
     <td>PS/55</td>
     <td>🟢</td>
-   </tr>
    </tr>
     <tr>
     <td>/</td>
@@ -173,13 +162,11 @@ layout: default
     <td>PS/55</td>
     <td>🟢</td>
    </tr>
-   </tr>
     <tr>
     <td>/</td>
     <td><a href="./j407v/" target="_blank" >IBM PC DOS J4.07/V</a></td>
     <td>PCAT</td>
     <td>🟢</td>
-   </tr>
    </tr>
     <tr>
     <td>/</td>
@@ -187,20 +174,17 @@ layout: default
     <td>PS/55</td>
     <td>🟢</td>
    </tr>
-   </tr>
     <tr>
     <td>/</td>
     <td><a href="./j500v/" target="_blank" >IBM PC DOS J5.00/V</a></td>
     <td>PCAT</td>
     <td>🟢</td>
    </tr>
-   </tr>
     <tr>
     <td>/</td>
     <td><a href="./j630v/" target="_blank" >IBM PC DOS J6.30/V</a></td>
     <td>PCAT</td>
     <td>🟢</td>
-   </tr>
    </tr>
     <tr>
     <td>/</td>
