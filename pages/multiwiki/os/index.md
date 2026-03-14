@@ -1,6 +1,3 @@
----
-layout: post
----
 <div align="center">
  <img alt="LOGO" src="./index.png" width="350"/><br />
  <h1>MultiWiki - 操作系统</h1>
